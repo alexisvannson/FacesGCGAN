@@ -1,7 +1,3 @@
-Here's a sample **GitHub README** based on the extracted content of your **FacesGCGAN** project notebook:
-
----
-
 # FacesGCGAN
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexisvannson/Deepfake/blob/main/FacesGCGAN.ipynb)
@@ -37,14 +33,3 @@ For a detailed explanation of how GANs work, check out my article:
    !cp kaggle.json ~/.kaggle/
    !chmod 600 ~/.kaggle/kaggle.json
    ```
-
-## Usage
-
-1. **Run the notebook** using Google Colab:
-
-   [Open in Colab](https://colab.research.google.com/github/alexisvannson/Deepfake/blob/main/FacesGCGAN.ipynb)
-
-2. **Steps within the notebook** include:
-   - Dataset upload and preparation.
-   - Model training and evaluation.
-   - Deepfake detection analysis.
