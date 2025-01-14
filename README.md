@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexisvannson/Deepfake/blob/main/FacesGCGAN.ipynb)
 
 ## Overview
-**FacesGCGAN** is a deep learning project that uses **Generative Adversarial Networks (GANs)** for generating and analyzing facial images. This project leverages graph-based techniques to improve the quality and realism of generated faces and detect deepfakes.
+**FacesGCGAN** is a deep learning project that uses **Generative Adversarial Networks (GANs)** for generating facial images.
 
 For a detailed explanation of how GANs work, check out my article:  
 [Generative Adversarial Networks Explained: Building AI-Generated Images](https://alexisvannson.hashnode.dev/generative-adversarial-networks-explained-building-ai-generated-images)
